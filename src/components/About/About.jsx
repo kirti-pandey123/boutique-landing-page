@@ -73,7 +73,7 @@ const About = () => {
 
           </div>
           <a
-            href="#booking"
+            href="#appointment"
             className="inline-block mt-10 bg-[#C8A96A] hover:bg-black text-white px-8 py-4 rounded-full transition duration-300"
           >
             Book Appointment
